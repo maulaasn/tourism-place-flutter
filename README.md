@@ -1,6 +1,6 @@
 ## flutter tourism place
 
-Project praktikum-3 flutter.
+A Flutter Project for Practical 3.
 
 ## getting started
 
